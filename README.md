@@ -4,6 +4,7 @@
   <img src="header.png" width="100%" alt="WHO IS VIVIAN">
 </div>
 
+<div align="center">
 ![](https://komarev.com/ghpvc/?username=Vivianmxmf&color=brightgreen&label=PROFILE+VIEWS)
 <p>
 <a href="https://github.com/Vivianmxmf"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/></a>
